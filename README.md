@@ -55,6 +55,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/othmanehsl/othmanehsl/output/snake.svg" alt="Snake animation" />
+
 
 ###
