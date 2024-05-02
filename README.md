@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🔗 Portfolio : https://othmane.net/<br>📑 CV : https://othmane.net/assets/pdf/CV.pdf</h4>
+<h4 align="left">🔗 Portfolio : <a href="https://othmane.net" target="_blank">https://othmane.net</a><br>📑 CV : <a href="https://othmane.net/assets/pdf/CV.pdf" target="_blank">Lien vers mon CV</a></h4>
 
 ###
 
