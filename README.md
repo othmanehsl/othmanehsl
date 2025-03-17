@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🔗 Portfolio : <a href="https://othmane.net" target="_blank">https://othmane.net</a><br>📑 CV : <a href="https://othmane.net/assets/pdf/CV.pdf" target="_blank">Lien vers mon CV</a></h4>
+<h4 align="left">🔗 Portfolio : <a href="https://othmane-dev-portfolio.vercel.app/" target="_blank">https://othmane-dev-portfolio.vercel.app/</a><br>📑 CV : <a href="https://othmane-dev-portfolio.vercel.app/assets/pdf/CV.pdf" target="_blank">Lien vers mon CV</a></h4>
 
 ###
 
