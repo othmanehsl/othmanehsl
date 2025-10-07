@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">💻-- Développeur Fullstack Junior<br>📕-- Étudiant dans les Métiers Multimédia de l'Internet.</h3>
+<h3 align="center">💻-- Ingénieur Logiciel<br>📕-- Étudiant à l'UTT.</h3>
 
 ###
 
-<h4 align="left">🔗 Portfolio : <a href="https://othmane-dev-portfolio.vercel.app/" target="_blank">https://othmane-dev-portfolio.vercel.app/</a><br>📑 CV : <a href="https://othmane-dev-portfolio.vercel.app/assets/pdf/CV.pdf" target="_blank">Lien vers mon CV</a></h4>
+<h4 align="left">🔗 Portfolio : <a href="https://othmane-houasli.vercel.app/" target="_blank">https://othmane-houasli.vercel.app/</a><br>📑 CV : <a href="https://othmane-houasli.vercel.app/assets/pdf/CV.pdf" target="_blank">Lien vers mon CV</a></h4>
 
 ###
 
